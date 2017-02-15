@@ -8,6 +8,6 @@ app.listen('1234', function(err) {
     if (!err)
         console.log('server started on port number 1234')
     else
-        console.log('server not strated');
+        console.log('server not strated, please re-try');
 
 });
